@@ -1,4 +1,4 @@
-# RotateImagesInParallel
+# Rotate PPM Images using MPI
 
  - This code was used for my final project in CSCI551 (Parallel and Numerical Programming Methods). 
 
